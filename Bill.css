@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+    font-size: large;
+    font-weight: bold;
+}
+
+.leftside{
+    width: 17%;
+    padding: 2px;
+    display: inline-block;
+    background-color: lightgrey;  
+}
+
+.image img{
+    height: 200px;
+    width: 200px;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 3% 0 3% 0;
+    margin: 0%
+}
+
+.main-bill{
+    display: inline-block;
+    width: 30%;
+    min-height: 200px;
+    color: black;   
+}
+
+.rhs{
+    float: right
+}
